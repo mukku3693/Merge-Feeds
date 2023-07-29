@@ -3,3 +3,4 @@ https://jj-labo.seesaa.net/index20.rdf
 https://nogameb.com/archives/category/free-game/feed
 https://www.4gamer.net/rss/index.xml
 https://www.gamespark.jp/rss/index.rdf
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbc_DglXubR1G8G9PmZUjSg
