@@ -27,7 +27,10 @@ def merge_feeds(fg, entries):
         fe = fg.add_entry()
         fe.id(entry.id)
         fe.title(entry.title)
-        fe.link(href=entry.link)
+        link = entry.link
+        if link.startswith('https://www.youtube.com'):
+            link = f'https://mukku3693.github.io/YouTube-Player/player.html?id={link[32:]},1.75'
+        fe.link(href=link)
 
     return fg
 
