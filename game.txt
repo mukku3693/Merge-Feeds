@@ -1,5 +1,6 @@
 https://automaton-media.com/feed/
 https://jj-labo.seesaa.net/index20.rdf
+https://jp.ign.com/feed.xml
 https://news.denfaminicogamer.jp/feed
 https://nogameb.com/archives/category/free-game/feed
 https://www.4gamer.net/rss/index.xml
