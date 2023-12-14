@@ -1,4 +1,5 @@
-https://automaton-media.com/feed/
+https://automaton-media.com/feed
+https://doope.jp/feed
 https://jj-labo.seesaa.net/index20.rdf
 https://jp.ign.com/feed.xml
 https://news.denfaminicogamer.jp/feed
